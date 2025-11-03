@@ -28,7 +28,7 @@ My work focuses on **industrial camera integration**, **AI-based image retrieval
 
 ## 🚀 Featured Projects
 
-### 🛠️ AOI Cosmetic Defect Inspection
+### 🛠️ [CosmeticAOI](https://github.com/Deoook/CosmeticAOI)
 
 > An AOI program that inspects mobile phone cases for surface scratches, dents, and other **cosmetic defects**.
 
@@ -40,8 +40,6 @@ C# (WinForms) | MSSQL | DeepCulus Deep Learning Vision Tool
 - Implement **calibration** functionality to improve inspection accuracy  
 - Control strobes via **serial communication (RS232)** to adjust lighting for 160 positions  
 - Store inspection results using **MS-SQL** and provide **REPORT / DASHBOARD** functionalities
-
-  ![AOI Project](https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=CosmeticAOI&theme=tokyonight)
 
 ---
 
