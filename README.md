@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Deoook/Deoook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hi there, I'm Hyundeok Choi (Deoook)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Machine Vision & Automation Developer**  
+I design and develop intelligent inspection systems powered by **C#**, **OpenCV**, and **ONNX**.  
+My work focuses on **industrial camera integration**, **AI-based image retrieval**, and **real-time vision inspection**.
+
+---
+
+### 🧠 What I Do
+- ⚙️ **Automation Systems** — Developing C# WinForms & WPF apps for industrial inspection  
+- 📷 **Machine Vision** — Integrating cameras (Hikvision, MindVision, TP-Link VIGI) with real-time image processing  
+- 🧩 **AI & Image Embedding** — Using **ONNX** and **ChromaDB** for visual search and vector database applications  
+- 💡 **Hardware Communication** — Controlling lighting & motion via Serial / TCP / IO interfaces  
+- 🧰 **Optimization** — Memory-efficient image handling with **OpenCvSharp**  
+
+---
+
+
+> _"Automation begins with vision."_  
+> — Hyundeok Choi
