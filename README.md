@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0M3N1aWNqc3ljcjljbHcxMnR3MGhtcDh2MGs2eTY1MzNueGY5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x5HlLDaLMZNVS/giphy.gif" width="1000" height="300"/>
 </div>
 
 ## 👋 Hi there, I'm Hyundeok Choi (Deoook)
