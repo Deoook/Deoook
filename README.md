@@ -41,7 +41,7 @@ C# (WinForms) | MSSQL | DeepCulus Deep Learning Vision Tool
 - Control strobes via **serial communication (RS232)** to adjust lighting for 160 positions  
 - Store inspection results using **MS-SQL** and provide **REPORT / DASHBOARD** functionalities
 
-🔗 [AOI Project](https://github.com/Deoook/CosmeticAOI)
+🔗 [Project](https://github.com/Deoook/CosmeticAOI)
 
 ### 🛠️ Multi-Camera Focus Control
 
@@ -62,7 +62,7 @@ C# (WinForms) | HikCamera SDK
 - Develop **Recipe functionality** to store camera/lens serial numbers and focus values  
 - Automate image saving according to recipe-defined file paths and user-specified names
 
-[!AOI Project](https://github.com/Deoook/CosmeticAOI)
+🔗 [Project](https://github.com/Deoook/MultiCamFocusController)
 
   ### 🛠️ Multi-Channel Barcode Reader
 
