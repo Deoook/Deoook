@@ -28,7 +28,7 @@ My work focuses on **industrial camera integration**, **AI-based image retrieval
 
 ## 🚀 Featured Projects
 
-### 🛠️ [CosmeticAOI](https://github.com/Deoook/CosmeticAOI)
+### 🛠️ [CosmeticAOI](https://github.com/Deoook/CosmeticAOI) 📄 *코드 비공개*
 
 > An AOI program that inspects mobile phone cases for surface scratches, dents, and other **cosmetic defects**.
 
@@ -43,7 +43,7 @@ C# (WinForms) | MSSQL | DeepCulus Deep Learning Vision Tool
 
 ---
 
-### 🛠️ [Multi-Camera Focus Control](https://github.com/Deoook/MultiCamFocusController)
+### 🛠️ [Multi-Camera Focus Control](https://github.com/Deoook/MultiCamFocusController) 📄 *코드 비공개*
 
 > A program for simultaneous 3-channel camera capture and lens focus control using serial communication-based buttons.
 
@@ -66,7 +66,7 @@ C# (WinForms) | HikCamera SDK
 
 ---
 
-  ### 🛠️ [Multi-Channel Barcode Reader](https://github.com/Deoook/MultiChannelBarcodeReader)
+  ### 🛠️ [Multi-Channel Barcode Reader](https://github.com/Deoook/MultiChannelBarcodeReader) 📄 *코드 비공개*
 
 > A barcode reader program supporting up to 12 channels and 6 sides.
 
