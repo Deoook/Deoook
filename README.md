@@ -26,27 +26,61 @@ My work focuses on **industrial camera integration**, **AI-based image retrieval
 - 💡 **Hardware Communication** — Controlling lighting & motion via Serial / TCP / IO interfaces  
 - 🧰 **Optimization** — Memory-efficient image handling with **OpenCvSharp**  
 
----
-
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Deoook/MultiImageViewer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=MultiImageViewer&theme=tokyonight" width="250"/>
-        <br/>
-        <b>MultiImageViewer</b>
-      </a>
-      <p>여러 폴더의 이미지를 관리하고 AI 기반 이미지 검색과 확대/축소 기능을 제공하는 WinForms 프로젝트</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Deoook/CrackROI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=CrackROI&theme=tokyonight" width="250"/>
-        <br/>
-        <b>CrackROI</b>
-      </a>
-      <p>OpenCV 기반 이미지 처리 프로젝트로, 균열 ROI 영역 검출 및 분석을 수행</p>
-    </td>
-  </tr>
-</table>
+### 🛠️ AOI Cosmetic Defect Inspection
+
+> An AOI program that inspects mobile phone cases for surface scratches, dents, and other **cosmetic defects**.
+
+**Tech Stack:**  
+C# (WinForms) | MSSQL | DeepCulus Deep Learning Vision Tool
+
+**Responsibilities:**  
+- Process video data captured via **Matrox MIL frame grabber** and visualize inspection results in real-time  
+- Implement **calibration** functionality to improve inspection accuracy  
+- Control strobes via **serial communication (RS232)** to adjust lighting for 160 positions  
+- Store inspection results using **MS-SQL** and provide **REPORT / DASHBOARD** functionalities
+
+![AOI Project](https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=AOI-Inspection&theme=tokyonight)
+
+### 🛠️ Multi-Camera Focus Control
+
+> A program for simultaneous 3-channel camera capture and lens focus control using serial communication-based buttons.
+
+**Tech Stack:**  
+C# (WinForms) | HikCamera SDK
+
+**Key Features:**  
+- Display live video from 3 channels simultaneously  
+- Control lens focus per camera via button inputs using **SerialPort**  
+- **Recipe functionality**: Save camera & lens serial numbers, focus values, and other settings  
+- Automatically save images to specified file paths with names entered in a TextBox based on the recipe
+
+**Responsibilities:**  
+- Output 3-channel camera video streams  
+- Implement lens focus control per camera using **SerialPort** button input  
+- Develop **Recipe functionality** to store camera/lens serial numbers and focus values  
+- Automate image saving according to recipe-defined file paths and user-specified names
+
+  ![AOI Project](https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=AOI-Inspection&theme=tokyonight)
+
+  ### 🛠️ Multi-Channel Barcode Reader
+
+> A barcode reader program supporting up to 12 channels and 6 sides.
+
+**Tech Stack:**  
+C# (WinForms) | MVCCodeReader SDK
+
+**Key Features:**  
+- Operate up to 12 barcode scanner channels simultaneously (**multi-threaded**)  
+- Exception capturing and detailed logging  
+- Save decoded barcode data to a CSV file upon program exit
+
+**Responsibilities:**  
+- Manage multi-channel barcode scanning  
+- Implement error handling and logging mechanisms  
+- Export scanned barcode data as CSV files for record keeping
+
+  ![AOI Project](https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=AOI-Inspection&theme=tokyonight)
+
+  
