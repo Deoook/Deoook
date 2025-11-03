@@ -28,23 +28,5 @@ My work focuses on **industrial camera integration**, **AI-based image retrieval
 
 ---
 
-## ⚡ Featured & Stats
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Deoook/MultiImageViewer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=MultiImageViewer&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Deoook&show_icons=true&theme=tokyonight" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deoook&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
----
 > _"Automation begins with vision."_  
 > — Hyundeok Choi
