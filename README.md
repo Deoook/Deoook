@@ -115,7 +115,7 @@ C# (WPF) | MVVM | Doosan Robotics SDK
 > A WPF application using OpenCvSharp for pattern matching and barcode reading, triggered via TCP/IP signals.
 
 **Tech Stack:**  
-C# (WPF) | MVVM | OpenCvSharp | TCP/IP Communication
+C# (WPF) | MVVM | OpenCvSharp 
 
 **Key Features:**  
 - Receive signals via TCP/IP (ID or Pattern) to trigger specific actions  
