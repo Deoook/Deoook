@@ -28,9 +28,9 @@ My work focuses on **industrial camera integration**, **AI-based image retrieval
 
 ## 🚀 Featured Projects
 
-### 🛠️ Company Projects
+### 🛠️ Company Projects (*Code not available*)
 
-### [CosmeticAOI](https://github.com/Deoook/CosmeticAOI) (*Code not available*)
+### [CosmeticAOI](https://github.com/Deoook/CosmeticAOI)
 
 > An AOI program that inspects mobile phone cases for surface scratches, dents, and other **cosmetic defects**.
 
@@ -45,7 +45,7 @@ C# (WinForms) | MSSQL | DeepCulus Deep Learning Vision Tool
 
 ---
 
-### [Multi-Camera Focus Control](https://github.com/Deoook/MultiCamFocusController) (*Code not available*)
+### [Multi-Camera Focus Control](https://github.com/Deoook/MultiCamFocusController)
 
 > A program for simultaneous 3-channel camera capture and lens focus control using serial communication-based buttons.
 
@@ -68,7 +68,7 @@ C# (WinForms) | HikCamera SDK
 
 ---
 
-  ### [Multi-Channel Barcode Reader](https://github.com/Deoook/MultiChannelBarcodeReader) (*Code not available*)
+  ### [Multi-Channel Barcode Reader](https://github.com/Deoook/MultiChannelBarcodeReader)
 
 > A barcode reader program supporting up to 12 channels and 6 sides.
 
@@ -87,9 +87,9 @@ C# (WinForms) | MVCCodeReader SDK
 
 ---
 
-### 🛠️ Study Projects
+### 🛠️ Study Projects (*Code available*)
 
-### [Doosan Robotics Arm Control](https://github.com/Deoook/DoosanRobotControl) (*Code available*)
+### [Doosan Robotics Arm Control](https://github.com/Deoook/PracticeDoosan)
 
 > A WPF program for controlling Doosan robotic arms using MVVM pattern architecture.
 
@@ -107,3 +107,22 @@ C# (WPF) | MVVM | Doosan Robotics SDK
 - Integrate Doosan Robotics SDK for arm movement and status monitoring  
 - Implement motion sequence management and logging mechanisms  
 - Ensure thread-safe handling of robot monitoring and control operations
+
+---
+
+### [Pattern Matching Tool](https://github.com/Deoook/PatternMatchingTool) *(In Progress)*
+
+> A WPF application using OpenCvSharp for pattern matching and barcode reading, triggered via TCP/IP signals.
+
+**Tech Stack:**  
+C# (WPF) | MVVM | OpenCvSharp | TCP/IP Communication
+
+**Key Features:**  
+- Receive signals via TCP/IP (ID or Pattern) to trigger specific actions  
+- Perform barcode reading or pattern matching based on the received signal  
+- Display real-time results in the WPF UI  
+
+**Responsibilities:**  
+- Develop WPF-based UI with MVVM pattern for real-time updates  
+- Integrate OpenCvSharp for high-speed image processing and pattern matching  
+- Implement TCP/IP client to receive trigger signals and respond with results  
