@@ -43,6 +43,8 @@ C# (WinForms) | MSSQL | DeepCulus Deep Learning Vision Tool
 
 🔗 [Project](https://github.com/Deoook/CosmeticAOI)
 
+---
+
 ### 🛠️ Multi-Camera Focus Control
 
 > A program for simultaneous 3-channel camera capture and lens focus control using serial communication-based buttons.
@@ -63,6 +65,8 @@ C# (WinForms) | HikCamera SDK
 - Automate image saving according to recipe-defined file paths and user-specified names
 
 🔗 [Project](https://github.com/Deoook/MultiCamFocusController)
+
+---
 
   ### 🛠️ Multi-Channel Barcode Reader
 
