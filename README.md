@@ -66,7 +66,7 @@ C# (WinForms) | HikCamera SDK
 
 ---
 
-  ### 🛠️ Multi-Channel Barcode Reader
+  ### 🛠️ [Multi-Channel Barcode Reader](https://github.com/Deoook/MultiChannelBarcodeReader)
 
 > A barcode reader program supporting up to 12 channels and 6 sides.
 
