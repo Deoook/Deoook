@@ -28,7 +28,9 @@ My work focuses on **industrial camera integration**, **AI-based image retrieval
 
 ## 🚀 Featured Projects
 
-### 🛠️ [CosmeticAOI](https://github.com/Deoook/CosmeticAOI) (*Code not available*)
+### 🛠️ Company Projects
+
+### [CosmeticAOI](https://github.com/Deoook/CosmeticAOI) (*Code not available*)
 
 > An AOI program that inspects mobile phone cases for surface scratches, dents, and other **cosmetic defects**.
 
@@ -43,9 +45,7 @@ C# (WinForms) | MSSQL | DeepCulus Deep Learning Vision Tool
 
 ---
 
----
-
-### 🛠️ [Multi-Camera Focus Control](https://github.com/Deoook/MultiCamFocusController) (*Code not available*)
+### [Multi-Camera Focus Control](https://github.com/Deoook/MultiCamFocusController) (*Code not available*)
 
 > A program for simultaneous 3-channel camera capture and lens focus control using serial communication-based buttons.
 
@@ -68,7 +68,7 @@ C# (WinForms) | HikCamera SDK
 
 ---
 
-  ### 🛠️ [Multi-Channel Barcode Reader](https://github.com/Deoook/MultiChannelBarcodeReader) (*Code not available*)
+  ### [Multi-Channel Barcode Reader](https://github.com/Deoook/MultiChannelBarcodeReader) (*Code not available*)
 
 > A barcode reader program supporting up to 12 channels and 6 sides.
 
@@ -85,6 +85,25 @@ C# (WinForms) | MVCCodeReader SDK
 - Implement error handling and logging mechanisms  
 - Export scanned barcode data as CSV files for record keeping
 
-  ![AOI Project](https://github-readme-stats.vercel.app/api/pin/?username=Deoook&repo=AOI-Inspection&theme=tokyonight)
+---
 
-  
+### 🛠️ Study Projects
+
+### [Doosan Robotics Arm Control](https://github.com/Deoook/DoosanRobotControl) (*Code available*)
+
+> A WPF program for controlling Doosan robotic arms using MVVM pattern architecture.
+
+**Tech Stack:**  
+C# (WPF) | MVVM | Doosan Robotics SDK
+
+**Key Features:**  
+- Real-time robotic arm control with multiple joints  
+- Monitor robot status, joint positions, and velocities  
+- Execute predefined motion sequences and custom commands  
+- Handle safety signals and access control for secure operation
+
+**Responsibilities:**  
+- Develop MVVM-based WPF application for intuitive UI and real-time updates  
+- Integrate Doosan Robotics SDK for arm movement and status monitoring  
+- Implement motion sequence management and logging mechanisms  
+- Ensure thread-safe handling of robot monitoring and control operations
