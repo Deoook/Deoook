@@ -126,3 +126,23 @@ C# (WPF) | MVVM | OpenCvSharp
 - Develop WPF-based UI with MVVM pattern for real-time updates  
 - Integrate OpenCvSharp for high-speed image processing and pattern matching  
 - Implement TCP/IP client to receive trigger signals and respond with results  
+
+---
+### [Autonomous Drone with YOLOv8](https://github.com/Deoook/Object-Detection-Autonomous-Drone)
+
+> An autonomous drone project that detects humans using YOLOv8 and navigates toward them for safe escort at night.
+
+**Tech Stack:**  
+Python | YOLOv8 | OpenCV | Raspberry Pi | Pixhawk | Android Studio  
+
+**Key Features:**  
+- Real-time human detection and tracking using YOLOv8  
+- Autonomous navigation toward detected objects via Pixhawk  
+- Android app for live video streaming, drone call, and landing control  
+- Integrated control between Raspberry Pi and flight controller  
+
+**Responsibilities:**  
+- Built and trained YOLOv8 model for person detection  
+- Implemented bounding box visualization using OpenCV  
+- Developed drone control logic based on object position  
+- Led project schedule and overall team management  
